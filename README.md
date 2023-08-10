@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Fitness Website Using NEXT13
+
+![alt text](./public/shot.png)
+![alt text](./public/video.mov)
 
 First, run the development server:
 
@@ -14,21 +17,10 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Project Description:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The Interactive Task Management App is a modern web application built using cutting-edge technologies, including Next.js 13, React hooks such as useRef and useState, Server-Side Rendering (SSR), Framer Motion for smooth animations, LocalStorage for seamless user experience, custom hooks for enhanced functionality, API calling for dynamic data integration, and Tailwind CSS for responsive and visually appealing UI design.
 
-## Learn More
+## Overview
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+In today's fast-paced world, staying organized and managing tasks efficiently is crucial. The Interactive Task Management App is designed to help users streamline their daily tasks, enhance productivity, and improve overall time management. This intuitive web application offers a feature-rich environment that harnesses the power of advanced technologies to provide a seamless and engaging user experience.
